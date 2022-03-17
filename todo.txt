@@ -1,0 +1,3 @@
+- fork eye/face tracking repo
+- python/c++
+- data vis possibly
