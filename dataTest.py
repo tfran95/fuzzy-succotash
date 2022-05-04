@@ -5,4 +5,4 @@ with open('C:\\Users\\zumie\\Documents\\GitHub\\fuzzy-succotash\\data\\ep.csv') 
         print(row)
 
 
-# dictionary possibly
+# dict
